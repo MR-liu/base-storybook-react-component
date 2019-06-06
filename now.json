@@ -1,0 +1,17 @@
+{
+  "name": "base-storybook-react-component",
+  "alias": "base-storybook-react-component",
+  "engines": {
+    "node": "9.x.x"
+  },
+  "files": [
+    ".storybook",
+    "src",
+    "stories",
+    "tests",
+    ".babelrc",
+    "tsconfig.base.json",
+    "tsconfig.json",
+    "rollup.config.js"
+  ]
+}
